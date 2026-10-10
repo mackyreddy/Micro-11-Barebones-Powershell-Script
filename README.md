@@ -12,10 +12,12 @@ Creates a heavily stripped down Version of Windows 11
 
 6.Now enter the mounted drive letter for the Windows 11 image (example F or G)
 
-7.Thats it all done, after few minutes Micro 11 Barebones.iso or Micro 11 Barebones StartAllBack.iso will be generated in the folder Micro 11 Barebones Powershell Script or Micro 11 Barebones StartAllBack Powershell Script
+7.If you have multiple Windows editions like Home, Pro, Enterprise etc in the iso, Powershell Script will ask for edition you want to strip. So enter the index number and press enter.
 
-Hope you enjoy this release and feel free to improve the PowerShell script
+8.Thats it all done, after few minutes Micro 11 Barebones.iso or Micro 11 Barebones StartAllBack.iso will be generated in the folder Micro 11 Barebones Powershell Script or Micro 11 Barebones StartAllBack Powershell Script
 
-Let me know any issues encountered, I will try to solve them.
+Hope you enjoy this release and feel free to improve the PowerShell Script
+
+Let me know any issues encountered, I will try to resolve them.
 
 cheers
