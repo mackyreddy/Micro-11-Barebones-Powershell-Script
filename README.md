@@ -1,5 +1,3 @@
-Instructions on how to use Powershell Script
-
 Creates a heavily stripped down Version of Windows 11
 
 1.Mount Windows 11 iso using Windows Explorer
