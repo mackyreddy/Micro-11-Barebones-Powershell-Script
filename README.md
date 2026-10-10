@@ -1,5 +1,7 @@
 This Powershell Script creates a heavily stripped down Version of Windows 11, Adds portable Classic Calculator, Notepad, Paint & StartAllBack and also creates a TakeOwnership.cmd file in System32, Apart from these files everything else is stock Windows 11.
 
+Latest 26H2 build 26300.9550 installation consumes around 3.80 GB and iso file size is around 1.07 GB.
+
 1.Mount Windows 11 iso using Windows Explorer
 
 2.Extract the downloaded archive into C:\Micro 11 Barebones Powershell Script or C:\Micro 11 Barebones StartAllBack Powershell Script
