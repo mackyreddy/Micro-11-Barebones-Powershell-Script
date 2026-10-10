@@ -22,6 +22,7 @@ Let me know any issues encountered, I will try to resolve them.
 
 cheers
 
-<img width="2560" height="1600" alt="Windows 11 Barebones StartAllBack Processes" src="https://github.com/user-attachments/assets/f2ce04be-20bc-4ba4-a8d2-3a5766eed140" />
-<img width="2560" height="1600" alt="Windows 11 Barebones StartAllBack Processes Detailed View" src="https://github.com/user-attachments/assets/f3e73e87-9e3c-4acd-b845-31b317a76a6a" />
-<img width="2560" height="1600" alt="Windows 11 Barebones StartAllBack Memory Usage" src="https://github.com/user-attachments/assets/0a1742fd-a065-45c4-8e8b-2dccbe9d9844" />
+<img width="2560" height="1600" alt="Micro 11 Home 26H2 26300 9550 Installation Size" src="https://github.com/user-attachments/assets/a2be6abf-1927-4d38-9f77-e58b45df0208" />
+<img width="2560" height="1600" alt="Micro 11 Barebones Processes" src="https://github.com/user-attachments/assets/7097aad4-b19d-4a1c-8a0f-0887a16436f5" />
+<img width="2560" height="1600" alt="Micro 11 Barebones Processes Detailed View" src="https://github.com/user-attachments/assets/0207b3fa-4b49-4db1-b623-653aa1b07944" />
+<img width="2560" height="1600" alt="Micro 11 Barebones Memory Usage" src="https://github.com/user-attachments/assets/a847474e-5447-4f83-b73f-f51a6c6c1f63" />
