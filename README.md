@@ -1,4 +1,4 @@
-This Powershell Script creates a heavily stripped down Version of Windows 11, Adds portable Classic Calculator, Notepad & Paint and also creates a TakeOwnership.cmd file in System32, Apart from these files everything else is stock Windows 11.
+This Powershell Script creates a heavily stripped down Version of Windows 11, Adds portable Classic Calculator, Notepad, Paint & StartAllBack and also creates a TakeOwnership.cmd file in System32, Apart from these files everything else is stock Windows 11.
 
 1.Mount Windows 11 iso using Windows Explorer
 
