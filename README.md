@@ -21,3 +21,7 @@ Hope you enjoy this release and feel free to improve the PowerShell Script
 Let me know any issues encountered, I will try to resolve them.
 
 cheers
+
+<img width="2560" height="1600" alt="Windows 11 Barebones StartAllBack Processes" src="https://github.com/user-attachments/assets/f2ce04be-20bc-4ba4-a8d2-3a5766eed140" />
+<img width="2560" height="1600" alt="Windows 11 Barebones StartAllBack Processes Detailed View" src="https://github.com/user-attachments/assets/f3e73e87-9e3c-4acd-b845-31b317a76a6a" />
+<img width="2560" height="1600" alt="Windows 11 Barebones StartAllBack Memory Usage" src="https://github.com/user-attachments/assets/0a1742fd-a065-45c4-8e8b-2dccbe9d9844" />
